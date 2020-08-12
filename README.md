@@ -1,3 +1,3 @@
-# Codeforces Challenge Solutions
+# Problem Solving Solutions 
 
-This repository contains solutions for simple challenges from codeforces.com
+This repository contains the solutions for various challenges from codeforces.com and hackerrank.com
